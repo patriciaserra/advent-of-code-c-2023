@@ -20,11 +20,11 @@ All solutions are written in C programming language.
 
 ## Directory Structure
 ```markdown
-/Day-01
+/day01
 ├── input.txt
 ├── day01_part1.c
 ├── day01_part2.c
-/Day-02
+/day02
 ├── input.txt
 ├── day02_part1.c
 ├── day02_part2.c
@@ -48,8 +48,8 @@ Make sure to replace `your-username` with your username 😊
 Navigate to the specific day's directory, compile the C code, and run the executable:
 
 ```bash
-cd Day-01
-gcc solution.c -o solution
+cd day01
+gcc day01_part1.c -o solution
 ./solution
 ```
 
