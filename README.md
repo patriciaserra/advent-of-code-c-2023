@@ -35,7 +35,7 @@ Each day's directory contains an `input.txt` file with the puzzle input and two 
 
 ## Getting Started
 
-To get started with these solutions, clone the repository to your local machine using the following command:
+To get started with these solutions, clone the repository using the following command:
 
 ```bash
 git clone https://github.com/your-username/advent-of-code-2023-c.git
