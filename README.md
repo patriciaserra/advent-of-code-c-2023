@@ -6,7 +6,7 @@ This is a collection of my solutions to the fantastic puzzles of [AOC](https://a
 
 You can check out my [Advent of Code profile](https://adventofcode.com/2023/leaderboard/private/view/3454791) to see my progress.
 
-All solutions are written in C programming language.
+All solutions have been coded in the C programming language.
 
 ## Table of contents
 - [Advent of Code 2023 Solutions in C 🎄](#advent-of-code-2023-solutions-in-c-)
