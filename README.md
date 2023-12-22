@@ -55,13 +55,15 @@ gcc day01_part1.c -o solution
 
 ## Notes and Considerations
 
-This is my first time participating in the AOC. ☃️
+This is my first time participating in the AOC. 
 
-Feel free to make any suggestions, it's greatly appreciated. 🌟
+I started learning C on September 2023. Therefore, my knowledge is limited, and my code will most certainly be messy.
 
-Input files are named input.txt, and the code assumes the puzzle input is available in this file. ❄️
+Feel free to make any suggestions; it's greatly appreciated 🌟
 
-Sometimes, however, when the puzzle input is quite short, I include it in the solutions. In this case, the input.txt file is not necessary for the code to work. 🤶
+Input files are named input.txt, and the code assumes the puzzle input is available in the file.
+
+Sometimes, however, when the puzzle input is quite short, I include it in the solutions. In this case, the input.txt file is not necessary for the code to work.
 
 ## How to Contribute
 
