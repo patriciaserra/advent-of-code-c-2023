@@ -67,12 +67,12 @@ Sometimes, however, when the puzzle input is quite short, I include it in the so
 
 ## How to Contribute
 
-Contributions are more than welcome! If you'd like to leave your touch in this project, please follow these guidelines:
+Contributions are more than welcome! If you'd like to leave your touch in this project, please follow the typical guidelines:
 
 1. Fork the repository.
-2. Create a new branch for your feature or bug fix.
+2. Create a new branch for your magical code.
 3. Make your changes and submit a pull request.
-4. Include a clear and concise description of your changes.
+4. Include a clear description of what you did.
 
 ## License
 
