@@ -75,5 +75,3 @@ Contributions are more than welcome! If you'd like to leave your touch in this p
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
-🎁 Merry Christmas! 🎁
