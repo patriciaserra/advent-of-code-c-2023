@@ -1,4 +1,4 @@
-# Advent of Code 2023 Solutions in C 🎄
+# Advent of Code 2023 in C 🎄
 
 **Welcome to my Advent of Code 2023 repository!**
 
