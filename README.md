@@ -63,7 +63,7 @@ Feel free to make any suggestions; it's greatly appreciated 🌟
 
 Input files are named input.txt, and the code assumes the puzzle input is available there.
 
-Sometimes, however, when the puzzle input is quite short, I include it in the solutions. In this very specific case, the input.txt file is not necessary for the code to work.
+Sometimes, however, when the puzzle input is quite short, I include it in the solutions. In that case, the input.txt file will not be necessary for the code to work.
 
 ## How to Contribute
 
