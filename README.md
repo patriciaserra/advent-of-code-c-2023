@@ -4,8 +4,6 @@
 
 This is a collection of my solutions to the fantastic puzzles of [AOC](https://adventofcode.com/) 2023.
 
-You can check out my [Advent of Code profile](https://adventofcode.com/2023/leaderboard/private/view/3454791) to see my humble progress 📈
-
 All solutions have been coded in the C programming language.
 
 ## Table of contents
