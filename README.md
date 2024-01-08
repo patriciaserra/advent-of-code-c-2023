@@ -2,8 +2,7 @@
 
 **Welcome to my Advent of Code 2023 repository!**
 
-This is a collection of my solutions to the fantastic puzzles of [AOC](https://adventofcode.com/) 2023.
-
+This is a collection of my solutions to the fantastic puzzles of [AOC](https://adventofcode.com/) 2023. \
 These solutions have been coded in the C programming language.
 
 Unfortunately I did not solve all puzzles, better luck next year :)
