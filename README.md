@@ -6,7 +6,7 @@ This is a collection of my solutions to the fantastic puzzles of [AOC](https://a
 
 These solutions have been coded in the C programming language.
 
-Unfortunately I did not solve all puzzles, but you can still access the few that I managed to solve :)
+Unfortunately I did not solve all puzzles, better luck next year :)
 
 ## Table of contents
 - [Advent of Code 2023 Solutions in C 🎄](#advent-of-code-2023-solutions-in-c-)
