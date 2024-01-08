@@ -4,7 +4,9 @@
 
 This is a collection of my solutions to the fantastic puzzles of [AOC](https://adventofcode.com/) 2023.
 
-All solutions have been coded in the C programming language.
+These solutions have been coded in the C programming language.
+
+Unfortunately I did not solve all puzzles, but you can still access the few that I managed to solve :)
 
 ## Table of contents
 - [Advent of Code 2023 Solutions in C 🎄](#advent-of-code-2023-solutions-in-c-)
