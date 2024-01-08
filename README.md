@@ -26,7 +26,6 @@ Unfortunately I did not solve all puzzles, better luck next year :)
 /day02
 ├── input.txt
 ├── day02_part1.c
-├── day02_part2.c
 ...
 ```
 
